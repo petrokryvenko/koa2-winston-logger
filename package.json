@@ -1,0 +1,17 @@
+{
+  "name": "koa2-winston-logger",
+  "version": "1.0.0",
+  "description": "Winston logger for Koa app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "winston",
+    "logger",
+    "koa2"
+  ],
+  "author": "Petro Kryvenko",
+  "license": "MIT"
+}
