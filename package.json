@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrokryvenko/koa2-winston-logger.git"
+  },
   "keywords": [
     "koa",
     "winston",
     "logger",
     "koa2"
   ],
+  "bugs": {
+    "url": "https://github.com/petrokryvenko/koa2-winston-logger/issues"
+  },
   "author": "Petro Kryvenko",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/petrokryvenko/koa2-winston-logger#readme"
 }
